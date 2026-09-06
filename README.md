@@ -1,10 +1,14 @@
 # Ex--10-IAM-working-overview
 Name: DEEPIKA V
+
 Reg No: 212224240030
+
 Aim
+
 To explore and configure AWS Identity and Access Management (IAM) users, groups, and policies, and to verify permissions for accessing Amazon S3 and Amazon EC2 resources.
 
 Procedure
+
 Start the AWS Lab and open the AWS Management Console.
 
 Open IAM → Users and verify user-1, user-2, and user-3.
